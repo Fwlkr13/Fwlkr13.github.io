@@ -1,5 +1,3 @@
-# Finn Walker
-
 Statistics Major, Business Administration minor, and Computer Science certificate.
 
 
